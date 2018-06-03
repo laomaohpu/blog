@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[测试帖]]></title>
-    <url>%2F2018%2F06%2F03%2F%E6%B5%8B%E8%AF%95%E5%B8%962%2F</url>
-    <content type="text"><![CDATA[Hello,这是又一篇测试帖，没什么重要的。]]></content>
+    <title><![CDATA[你好]]></title>
+    <url>%2F2018%2F06%2F03%2F%E4%BD%A0%E5%A5%BD%E8%80%81%E8%8C%82%2F</url>
+    <content type="text"><![CDATA[这是一级标题这是二级标题这是三级标题Hello,这是一篇测试帖，没什么重要的。]]></content>
       <categories>
         <category>测试</category>
       </categories>
@@ -12,9 +12,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[你好]]></title>
-    <url>%2F2018%2F06%2F03%2F%E4%BD%A0%E5%A5%BD%E8%80%81%E8%8C%82%2F</url>
-    <content type="text"><![CDATA[Hello,这是一篇测试帖，没什么重要的。]]></content>
+    <title><![CDATA[测试帖]]></title>
+    <url>%2F2018%2F06%2F03%2F%E6%B5%8B%E8%AF%95%E5%B8%962%2F</url>
+    <content type="text"><![CDATA[Hello,这是又一篇测试帖，没什么重要的。]]></content>
       <categories>
         <category>测试</category>
       </categories>
