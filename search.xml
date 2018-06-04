@@ -9,18 +9,18 @@
       </categories>
       <tags>
         <tag>测试</tag>
-        <tag>阅读统计</tag>
       </tags>
   </entry>
   <entry>
     <title><![CDATA[留言板]]></title>
     <url>%2F2018%2F06%2F03%2F%E7%95%99%E8%A8%80%E6%9D%BF%2F</url>
-    <content type="text"><![CDATA[留言板​ 这是一个留言板，走过路过欢迎留言。]]></content>
+    <content type="text"><![CDATA[​ 这是一个留言板，走过路过欢迎留下你的足迹。]]></content>
       <categories>
-        <category>测试</category>
+        <category>留言</category>
       </categories>
       <tags>
-        <tag>测试</tag>
+        <tag>留言</tag>
+        <tag>足迹</tag>
       </tags>
   </entry>
 </search>
